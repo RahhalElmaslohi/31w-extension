@@ -13,7 +13,7 @@ wp_enqueue_scripts // le hook
 */
 
 /* 
-Plugin Name: RA_carrousel
+Plugin Name: ra_carrousel
 Version: 1.0.0
 */
 
