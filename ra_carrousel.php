@@ -26,4 +26,4 @@ function genere_boite(){
 
 }
 
-add_shortcode('ra_carrousel','genre_boite');
+add_shortcode('ra_carrousel','genere_boite');
