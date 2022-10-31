@@ -40,7 +40,7 @@ add_action('wp_enqueue_scripts', 'rac_enqueue');
 function genere_boite(){
     $contenu = "
     
-    
+    <button class='btn_modale'>boîte modale</button>
     <div class='carrousel'>Carrousel</div>";
     return $contenu;
 
