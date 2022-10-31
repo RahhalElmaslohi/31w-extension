@@ -44,6 +44,7 @@ function genere_boite(){
     <div class='carrousel'>Rahhal Carrousel
         <button class='btn_fermer'>X</button>
         <figure class='carrousel__figure'></figure>
+        <form class='carrousel__form'></form>
     </div>";
     return $contenu;
 
