@@ -1,5 +1,9 @@
 (function(){
 console.log('carrousel');
+ /* ----------------------------------------- Initialisation des compteurs */
+ let index = 0;
+ let dernierIndex = -1;
+
 let elmBtnModale = document.querySelector(".btn_modale");
 let elmCarrousel = document.querySelector(".carrousel");
 let elmBtnModaleFermer = document.querySelector(".btn_fermer");
